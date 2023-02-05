@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Stryder",
+      "lastName": "Yates",
+      "email": "syates@gmail.com",
+      "favoriteColor": "white",
+      "birthday": "11/10/1995"
+    },
+    "contact2": {
+      "firstName": "Danni",
+      "lastName": "Brown",
+      "email": "dbrown@gmail.com",
+      "favoriteColor": "yellow",
+      "birthday": "12/27/2002"
+    },
+    "contact3": {
+      "firstName": "Madi",
+      "lastName": "Tate",
+      "email": "mtate@gmail.com",
+      "favoriteColor": "blue",
+      "birthday": "4/21/2001"
+    }
+  }
